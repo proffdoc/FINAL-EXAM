@@ -16,7 +16,7 @@ import React from 'react';
  
  const Contact = () => (
    <div>
-     <h1>Add your email share your thoughts!!!</h1>
+     <h1>Add your name and your email to share your thoughts!!!</h1>
      <Formik
        initialValues={{
          firstName: 'Your name',
