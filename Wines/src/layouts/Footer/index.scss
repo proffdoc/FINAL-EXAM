@@ -1,0 +1,17 @@
+div{
+    .container{
+        max-width: 1200px;
+        .footer-top{
+            ul{
+                list-style-type: none;
+                align-items: center;
+                display: flex;
+                flex-direction: row;
+                li{
+                    box-sizing: border-box;
+                    justify-content: center;
+                }
+            }
+        }
+    }
+}

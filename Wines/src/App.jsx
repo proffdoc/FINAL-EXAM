@@ -9,7 +9,7 @@ import Wines from './pages/Wines'
 import About from './pages/About'
 import Error from './pages/Error'
 import Footer from './layouts/Footer'
-import Wishlist from './pages/Wishlist'
+import { Wishlist } from './pages/Wishlist'
 
 function App() {
   

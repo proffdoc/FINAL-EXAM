@@ -1,9 +1,11 @@
+import { Button, Flex } from '@chakra-ui/react'
 import React from 'react'
+import { addToWishlist } from '../../components/WishlistCards'
+import Cards from '../../components/Cards'
 
-const Wishlist = () => {
+export const Wishlist = () => {
   return (
-    <div>Wishlist</div>
+    <Flex></Flex>
   )
 }
 
-export default Wishlist

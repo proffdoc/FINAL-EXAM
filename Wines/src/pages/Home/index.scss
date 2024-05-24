@@ -1,0 +1,11 @@
+div{
+    .container{
+        max-width: 1200px;
+        .row{
+            display: flex;
+            .col{
+                text-align: center;
+            }
+        }
+    }
+}
